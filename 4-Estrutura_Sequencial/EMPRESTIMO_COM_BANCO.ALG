@@ -8,12 +8,12 @@ inicio
     escreva("Vai querer parcela em quantas vezes? ")
     leia(vezes)
 
-    juros <- quantidade * 20 / 100
-    
-    parcelas <- quantidade / vezes
+    juros <- quantidade + (quantidade * 20 / 100)
 
-    escreva (" Voçe irá devolver", juros ,"% de juros")
-    escreva (" E irá pagar" , vezes ," X de ", parcelas)
+    parcelas <- juros / vezes
+
+    escreva (" VoÃ§e irÃ¡ devolver", juros ,"R$")
+    escreva (" E irÃ¡ pagar" , vezes ," X de ", parcelas: 4 : 2)
 
 
 fimalgoritmo
