@@ -1,33 +1,33 @@
-algoritmo "Oque_È_Algoritmo"
+algoritmo "Oque_√©_Algoritmo"
 var
     // Variaveis
     // Var
        //Identificadot: Tipo primitivo
        // EX: Bola: Brinquedo
 inicio
-      // O que È um algoritmo
+      // O que √© um algoritmo
 
-         //Manzano - Algoritmos s„o conjuntos de passos finitos e organizados que
+         //Manzano - Algoritmos s√£o conjuntos de passos finitos e organizados que
          //Quando executados, resolvem um determinado problema.
 
       //-----------------------------------------------------------------------------
 
-      // DiferenÁa entre algoritmo e algoritmos computacionais!
+      // Diferen√ßa entre algoritmo e algoritmos computacionais!
 
          // Algoritmo - Todo tipo de rotina (inclusive do dia a dia)
 
-         // Algoritmos Computacionais - S„o passos a serem seguidos
-            // Por um mÛdulo processador e seus respectivos usu·rios que
+         // Algoritmos Computacionais - S√£o passos a serem seguidos
+            // Por um m√≥dulo processador e seus respectivos usu√°rios que
             // Quando executados na ordem correta, conseguem realizar
             // Determinada tarefa
 
-         // Algoritmos computacionais - s„o rotinas executadas por algum processador
+         // Algoritmos computacionais - s√£o rotinas executadas por algum processador
 
       //-----------------------------------------------------------------------------
 
-         //MÛdulo processador - … tudo aquilo que pode efetuar processamento.
+         //M√≥dulo processador - √â tudo aquilo que pode efetuar processamento.
 
-         // Usu·rios - Pessoas que ultilizam o meu software.
+         // Usu√°rios - Pessoas que ultilizam o meu software.
 
          // Realizar Tarefa - Resolver um problema que o usuario esteja tendo.
 
@@ -35,12 +35,12 @@ inicio
 
          // Como Criar Algoritmos computacionais
 
-            // Logica de programacao - … desenvolvida primeiramente na cabeÁa De um Dev
+            // Logica de programacao - √â desenvolvida primeiramente na cabe√ßa De um Dev
 
-            // Escrever a lÛgica em uma linguagem de programaÁ„o - Depois È
+            // Escrever a l√≥gica em uma linguagem de programa√ß√£o - Depois √©
                //Desenvolvida em uma linguagem
 
-            // Sistema completo - ultilizando os 2 de cima È possivel a criacao
+            // Sistema completo - ultilizando os 2 de cima √© possivel a criacao
                // De um sistema completo.
 
      //--------------------------------------------------------------------------------
@@ -50,9 +50,9 @@ inicio
 
               //Fluxograma - Representa a logica atraves de um fluxo de informacoes seguindo de um ponto a outro
 
-              // Diagrama de Nassis Shneiderman (Chapam) - Representar a lÛgica atravÈs de blocos
+              // Diagrama de Nassis Shneiderman (Chapam) - Representar a l√≥gica atrav√©s de blocos
 
-              // Pseudocodigo (Portugol) - … a lÛgica do programa escrito em sua linguagem nativa (Portugues)
+              // Pseudocodigo (Portugol) - √â a l√≥gica do programa escrito em sua linguagem nativa (Portugues)
 
 
      //--------------------------------------------------------------------------------
@@ -64,9 +64,9 @@ inicio
 
     //---------------------------------------------------------------------------------
 
-          // Oque È Variavis
+          // Oque √© Variavis
 
-              // Variaveis sao pequenos espaÁos na memoria do computador
+              // Variaveis sao pequenos espa√ßos na memoria do computador
               // Cada Variavel simples pode possuir apena um valor
 
               // Var
@@ -80,12 +80,12 @@ inicio
 
              //Regras
 
-             // 1. Deve comeÁar com uma letra
-             // 2. Os proximos podem ser letras ou n˙meros
-             // 3. N„o pode ultilizar nenhum simbolo, exeto _
-             // 4. N„o pode conter espaÁos em branco
-             // 5. N„o pode conter letras com acentos
-             // 6. N„o pode ser uma palavra reservada
+             // 1. Deve come√ßar com uma letra
+             // 2. Os proximos podem ser letras ou n√∫meros
+             // 3. N√£o pode ultilizar nenhum simbolo, exeto _
+             // 4. N√£o pode conter espa√ßos em branco
+             // 5. N√£o pode conter letras com acentos
+             // 6. N√£o pode ser uma palavra reservada
                 // Ex: Var, inicio, algoritmo, fimalgoritmo...
 
    //---------------------------------------------------------------------------------
@@ -98,10 +98,10 @@ inicio
            // Real - Armazena valores inteiros e fracionarios
               // Ex: 1, 0, 0.5, 5.0, 9.8, -77.3, 3.1415
 
-           // Caractere - Armazena valores de caracteres, tudo oque È colocado entre asp·s - ("")
+           // Caractere - Armazena valores de caracteres, tudo oque √© colocado entre asp√°s - ("")
               // Ex: "Gustavo" "Algoritmo" "123"
 
-           // LÛgico - Armazena valores logicos
+           // L√≥gico - Armazena valores logicos
               // Ex: Verdadeiro, Falso
 
     //---------------------------------------------------------------------------------
@@ -114,36 +114,36 @@ inicio
 
          // Comando de entrada (VisualG)
 
-            //Para poder criar interatividade com com usuario o comando leia ser· ultilizado
+            //Para poder criar interatividade com com usuario o comando leia ser√° ultilizado
 
      //---------------------------------------------------------------------------------
 
            // Operadores Aritmeticos          (A <- 5)
            //                                 (B <- 2)
 
-             // + (AdiÁ„o) - A + B = 7
-             // - (SubtraÁ„o) - A - B = 3
-             // * (multiplicaÁ„o) A * B = 10
-             // / (divis„o) A / B = 2.5
+             // + (Adi√ß√£o) - A + B = 7
+             // - (Subtra√ß√£o) - A - B = 3
+             // * (multiplica√ß√£o) A * B = 10
+             // / (divis√£o) A / B = 2.5
              // \ (Divisao Inteira) A \ B = 2
-             // ^ (ExponeciaÁ„o) A ^ B = 25
-             // % (MÛdulo) A % B = 1
+             // ^ (Exponecia√ß√£o) A ^ B = 25
+             // % (M√≥dulo) A % B = 1
 
      //---------------------------------------------------------------------------------
 
-           // Ordem de precedÍncia (Ordem que os caracter vao ser executados)
+           // Ordem de preced√™ncia (Ordem que os caracter vao ser executados)
 
-              // ()  [ParÍnteses]
-              // ^  [ExponenciaÁ„o]
-              // * / [MultiplicaÁ„o / Divis„o]
-              // +  [AdiÁ„o / SubtraÁ„o]
+              // ()  [Par√™nteses]
+              // ^  [Exponencia√ß√£o]
+              // * / [Multiplica√ß√£o / Divis√£o]
+              // +  [Adi√ß√£o / Subtra√ß√£o]
 
      //---------------------------------------------------------------------------------
 
-           // FunÁıes Aritmeticas
+           // Fun√ß√µes Aritmeticas
 
                 // Abs - [Valor Absoluto] - Abs(-10) = 10
-                // Exp - [ExponeciaÁ„o] - Exp(3,2) = 9
+                // Exp - [Exponecia√ß√£o] - Exp(3,2) = 9
                 // Int - [Valor Inteiro] - Int(3.9) = 3
                 // RaizQ [Raiz Quadrada] - Raizq(25) = 5
                 // PI [Retorna PI] - PI = 3.1415
@@ -156,7 +156,7 @@ inicio
 
             // Operadores Relacionais
 
-               //Vao criar a relacao entre as variaveis e expreÁoes e gerar um valor logico (verdadeira, falso)
+               //Vao criar a relacao entre as variaveis e expre√ßoes e gerar um valor logico (verdadeira, falso)
                // operadores logicos, sempre vao retornar um valor logico
 
                // > (Maior que)
@@ -166,12 +166,12 @@ inicio
                // = (igual a)
                // <> (diferente de)
 
-              // Os operadores relacionais, vao testar a relaÁ„o entre variaveis, valores ou expreÁıes.
+              // Os operadores relacionais, vao testar a rela√ß√£o entre variaveis, valores ou expre√ß√µes.
 
 
      //---------------------------------------------------------------------------------------------------------
 
-               // Operadores LÛgicos
+               // Operadores L√≥gicos
 
                   // operadores logicos, sempre vao retornar um valor logico
 
@@ -207,7 +207,7 @@ inicio
                   //--------------------------------------------------------------------------------------------
                   //                                  |
                   //                                  |
-                  //  P   |    N¬O P                  |         Paula   |    N¬O Paula
+                  //  P   |    N√ÇO P                  |         Paula   |    N√ÇO Paula
                   //      |                           |
                   //  V   |     F                     |         Feliz   |     Triste
                   //      |                           |
@@ -233,28 +233,28 @@ inicio
                         //Todos
 
 
-                    //LÛgicos
+                    //L√≥gicos
 
 
                         // E
                         // OU
-                        // N√O
+                        // N√ÉO
 
          //------------------------------------------------------------------------------------------------------
 
-               // Estruturas condicionais
+             // Estruturas condicionais
                
                   //Condicional Simples
-                  
-                        // se
-                  
+                 
                   // Condicional composta
+                        
+                  // Condicional Aninhada
+                        
+                  // Condicional Escolha Caso
                   
-                        //senao
+           //----------------------------------------------
                   
-              //----------------------------------------------
-                  
-                  //se (Express„o for verdade) entao
+                  //se (Express√£o for verdade) entao
                   
                        // (execute esse) bloco
                        
